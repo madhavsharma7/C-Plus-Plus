@@ -1,0 +1,2 @@
+I am creating a new text file 
+This text file contain alphabets 
